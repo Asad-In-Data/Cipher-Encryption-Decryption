@@ -12,25 +12,6 @@ A simple yet effective encryption and decryption system implemented in MIPS Asse
 
 ---
 
-## 📋 Table of Contents
-
-- [About](#about)
-- [Features](#features)
-- [How It Works](#how-it-works)
-- [Getting Started](#getting-started)
-  - [Prerequisites](#prerequisites)
-  - [Installation](#installation)
-- [Usage](#usage)
-  - [Running the Program](#running-the-program)
-  - [Examples](#examples)
-- [Technical Details](#technical-details)
-- [Project Structure](#project-structure)
-- [Documentation](#documentation)
-- [Contributing](#contributing)
-- [License](#license)
-- [Authors](#authors)
-
----
 
 ## 🔍 About
 
